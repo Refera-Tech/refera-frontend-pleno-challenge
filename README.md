@@ -54,7 +54,7 @@ Copy the Array below and add in your code:
     nameCustomer: 'Maria João',
     phoneCustomer: '47992345686',
     email: 'maria.joao@company.com',
-    titleOrder: 'Pedido 1',
+    titleOrder: 'Pedido 3',
     descOrder: 'Pedido de compra referente à retirada de móveis do apartamento',
     deadline: new Date()
   }
